@@ -41,7 +41,6 @@
     ]
   },
   "devDependencies": {
-    "@alch/alchemy-web3": "^1.0.3",
     "axios": "^0.21.1",
     "dotenv": "^10.0.0",
     "node-sass": "^6.0.0",
